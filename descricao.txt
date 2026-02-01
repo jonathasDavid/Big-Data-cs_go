@@ -1,0 +1,19 @@
+PII – Projeto Big Data
+● Objetivo: Fazer um projeto de engenharia reversa.
+● Os alunos deverão encontrar uma base de dados permitindo que sejam contruídas pelo menos 4 entidades e que façam
+sentido (sejam consistentes). Caso a base contenha poucos dados, crie tuplas sintéticas para as entidades e tenha ao
+menos 10mil linhas em cada tabela. ChatGPT!.
+● Entregar um projeto de banco de dados (conceito, lógico e físico), considerando dados que estão em bases de dados
+púbicas, organizadas em planilhas ou qualquer organização estruturada. Exemplos:
+https://github.com/awesomedata/awesome-public-datasets e https://www.kaggle.com/datasets
+● A entrega será por meio do envio de um relatório com:
+– Seção 1 - Introdução: descrevendo a origem dos dados e que tipo de informação são tratadas;
+– Seção 2 - Obtenção: descrever como os dados foram obtidos e como foi feita a inserção dos dados no SGBD;
+– Seção 3 - Dicionário de dados: atributo/classe, domínio (ou tipo de informação), tamanho e descrição.
+– Seção 4 - Modelo Entidade Relacionamento
+– Seção 5 - Esquema Relacional e Decisões de Mapeamento (MER → ER )
+– Seção 6 - Aplicar leis de normalização
+– Seção 7 - Mostrar SQL avançadas
+– Seção 8 - Gerar gráficos a partir das SQLs (Preferecilamente SuperSet Apache https://superset.apache.org/)
+– Ah, faça um documento organizado. Coloque nome, título, instituição ...
+● Também haverá uma apresentação, com duração máxima de 10 minutos.
