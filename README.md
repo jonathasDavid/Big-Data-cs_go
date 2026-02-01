@@ -198,9 +198,9 @@ Veja todas em [`sql/03_consultas_avancadas.sql`](sql/03_consultas_avancadas.sql)
 
 ## 👨‍💻 Autor
 
-**[Seu Nome]**
-- Curso: [Nome do Curso]
-- Instituição: [Nome da Instituição]
+**Jônathas Melo David**
+- Curso: Ciência da Computação
+- Instituição: Instituto Federal de Goiás
 - Disciplina: Banco de Dados I
 
 ## 📄 Licença
