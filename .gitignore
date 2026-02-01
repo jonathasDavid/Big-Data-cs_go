@@ -1,0 +1,20 @@
+# Ambiente virtual Python
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Arquivos CSV grandes (>100MB - limite GitHub)
+base_dados/mm_master_demos.csv
+base_dados/tabelas_normalizadas/evento_damo.csv
+base_dados/tabelas_normalizadas/evento_dano.csv
+
+# IDEs
+.vscode/
+.idea/
+
+# Sistema
+*.log
+.DS_Store
+Thumbs.db
